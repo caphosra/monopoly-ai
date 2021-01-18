@@ -1,6 +1,6 @@
 # Monopoly AI project
 
-This is an project aimed to create an artificial intelligence predicting how much the player will get on Monopoly, the famous board game.
+This is a project aimed to create an artificial intelligence predicting how much the player will get on Monopoly, a famous board game.
 
 ## Requirements
 
